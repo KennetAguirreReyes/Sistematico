@@ -1,0 +1,10 @@
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\obj\Debug\Activos Fijos.csprojAssemblyReference.cache
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\obj\Debug\Activos_Fijos.Formularios.FrmActivosFijos.resources
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\obj\Debug\Activos_Fijos.Properties.Resources.resources
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\obj\Debug\Activos Fijos.csproj.GenerateResource.cache
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\obj\Debug\Activos Fijos.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\bin\Debug\Activos Fijos.exe.config
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\bin\Debug\Activos Fijos.exe
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\bin\Debug\Activos Fijos.pdb
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\obj\Debug\Activos Fijos.exe
+C:\Users\JADPA_20\source\repos\Sistematico\Activos Fijos\obj\Debug\Activos Fijos.pdb
